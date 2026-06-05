@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.db
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Sistema
+.DS_Store
+
+# Pytest
+.pytest_cache/
